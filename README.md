@@ -24,6 +24,14 @@ username : User
 password : user123   
 ```
 
+## 📌Database Design
+
+![img.png](Resources/Database Design.png)
+
+## 📌Use-case Diagram
+
+![img.png](Resources/Use-case Diagram.png)
+
 ## Objectives
 
 - Understand what ORM is and utilize the concept to develop applications.
@@ -38,6 +46,7 @@ password : user123
 - Java
 - JavaFX
 - Hibernate
+- HQL
 
 ## LICENSE
 
